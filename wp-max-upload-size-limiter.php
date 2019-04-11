@@ -6,7 +6,7 @@ Description: Limiting max size of images uploaded to Wordpress.
 Version:     1.0
 Author:      iPublicis!COM from code by WebHostingHero
 Author URI:  https://ipublicis.com 
-License:     GPL2
+License:     GPL3
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
 Plugin version created from code made by Web Hosting Hero
