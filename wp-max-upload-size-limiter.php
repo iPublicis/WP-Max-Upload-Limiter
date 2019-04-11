@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Max Upload Limiter
-Plugin URI:  https://github.com/iPublicis/WP-Max-Upload-Limiter
+Plugin URI:  https://gist.github.com/iPublicis/bc173884f27088c85b9ea3c619c7341f
 Description: Limiting max size of images uploaded to Wordpress.
 Version:     1.0
 Author:      iPublicis!COM from code by WebHostingHero
