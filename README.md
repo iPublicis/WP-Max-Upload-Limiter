@@ -1,5 +1,7 @@
-# WP-Max-Upload-Limiter
+# WP Max Upload Limiter
 Limiting max size of images uploaded to Wordpress
+
+---
 
 Some customers don't like or remember to resize their images before uploading to #WordPress sites.
 
