@@ -1,7 +1,7 @@
 # WP-Max-Upload-Limiter
 Limiting max size of images uploaded to Wordpress
 
-Some customers don't like or know how to resize their images before uploading to #WordPress sites.
+Some customers don't like or remember to resize their images before uploading to #WordPress sites.
 
 So we had to create a size limite enforcer plugin and afterwards use WPMuDev's Smush It to create palatable imagery.
 
