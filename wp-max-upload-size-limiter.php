@@ -48,6 +48,6 @@ function wpmaxuploadsizelimiter_limit_image_size($file) {
 add_filter('wp_handle_upload_prefilter', 'wpmaxuploadsizelimiter_limit_image_size');
 
 function wpmaxuploadsizelimiter_load_textdomain() {
-	load_plugin_textdomain( 'wpmaxuploadsizelimiter', false, dirname( plugin_basename(__FILE__) ) . '/' );
+	load_plugin_textdomain( 'wpmaxuploadsizelimiter', false, dirname( plugin_basename(__FILE__) ) . '/lang/' );
 }
 add_action('plugins_loaded', 'wpmaxuploadsizelimiter_load_textdomain');
